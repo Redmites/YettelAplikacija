@@ -215,5 +215,3 @@ Ako korisnik nema admin rolu:
 
    * Authorization → Bearer Token
    * Zalepiti token
-
-Sve zaštićene rute više neće vraćati 401 Unauthorized.
